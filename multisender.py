@@ -107,6 +107,8 @@ def get_all_exchanges():
 
 
 if __name__ == '__main__':
+    logger.add('withdraw.log')
+
     # Token settings
     withdraw_token = 'ZETA'
 
