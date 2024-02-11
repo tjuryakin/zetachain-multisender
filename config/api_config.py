@@ -1,0 +1,17 @@
+# OKX Exchange
+OKX_API_KEY = ''
+OKX_API_SECRET = ''
+OKX_PASSPHRASE = ''
+
+# Bybit Exchange
+BYBIT_API_KEY = ''
+BYBIT_API_SECRET = ''
+
+# HTX Exchange
+HTX_API_KEY = ''
+HTX_API_SECRET = ''
+
+# Bitget Exchange
+BITGET_API_KEY = ''
+BITGET_API_SECRET = ''
+BITGET_PASSPHRASE = ''
